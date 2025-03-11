@@ -113,7 +113,7 @@
 
 <p align="left">
   <a href="https://dev.to/darshan_pr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshan_pr" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" alt="darshan_pr" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/darshan-pr26/" target="_blank">
@@ -123,7 +123,21 @@
   <a href="https://leetcode.com/u/darshanpr26/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshanpr26" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="darshanpr26@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Darsh260" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1024px-X_icon_2.svg.png" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://g.dev/darsh-n" target="_blank">
+    <img src="https://i.ytimg.com/vi/UOhkdowmdnU/sddefault.jpg?v=648b9533" alt="Google Developer Profile" height="30" width="40" />
+  </a>
 </p>
+
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
