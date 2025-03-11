@@ -1,3 +1,4 @@
+<a target="blank" ><img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)"></a>
 <h1>Hi 👋, I'm  Darsh_n !</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -23,11 +24,11 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Darsh260" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://dev.to/https://dev.to/darshan_pr" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/darshan-pr26/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshn-26&show_icons=true&locale=en" alt="Darshn-26" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&" alt="Darshn-26" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshn-26&show_icons=true&locale=en&layout=compact" alt="Darshn-26" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Darshn-26" alt="Darshn-26" /></a></p>
+<h3 align="left">Connect with me:</h3>
+<p style="margin-bottom : 500" align="left">
+<a href="https://dev.to/darshan_pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/darshan_pr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-pr26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-pr26/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/darshanpr26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/darshanpr26/" height="30" width="40" /></a>
+</p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshn-26&show_icons=true&locale=en" alt="Darshn-26" />..........<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&" alt="Darshn-26" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshn-26&show_icons=true&locale=en&layout=compact" alt="Darshn-26" /></p>
