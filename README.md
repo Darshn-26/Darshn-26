@@ -124,7 +124,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshanpr26" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href=mailto:“darshanpr26@gmail.com”></a>
+  <a href="mailto: darshanpr26@gmail.com" arget="_blank" ></a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
