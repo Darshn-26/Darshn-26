@@ -29,7 +29,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&theme=tokyonight&hide_border=true" width="400" />
     </td>
     <td width="40%" rowspan="2">
-      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500" />
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" />
     </td>
   </tr>
 </table>
