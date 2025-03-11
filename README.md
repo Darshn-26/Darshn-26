@@ -1,42 +1,42 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Darsh_n%20!&fontSize=40&animation=fadeIn&fontAlignY=38&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Darsh_n%20!&fontSize=40&animation=fadeIn&fontAlignY=38" />
 </div>
 
+
+
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-Stack+Developer;AI+Enthusiast+!&font=Fira%20Code&color=F75C7E&center=true&size=30&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-Stack+Developer;AI+Enthusiast+!;&font=Fira%20Code&color=ff9a40&center=true&size=30&width=400&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=50&text=Pronouns%20he/him..&fontSize=20&fontAlign=10" />
 </div>
+
 
 <div align="left">
   <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="flex-direction:column;">
-      <ul align="left">
-        <li>👀 I'm interested in Java Programming, Gen AI, Full-Stack.</li>
-        <li>🌱 I'm currently learning C Programming and Python Programming.</li>
-        <li>💞️ I'm looking to collaborate on Open-Source Projects.</li>
-        <li>😄 Pronouns: He/Him.</li>
-      </ul>
+      <div style="margin-left: 0;">
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
+          <span style="margin-left: 8px;">Specializing in Java Development, Generative AI, and Full-Stack Engineering</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
+          <span style="margin-left: 8px;">Currently expanding expertise in Next.js framework and Large Language Model implementation</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
+          <span style="margin-left: 8px;">Seeking collaboration opportunities within the Open-Source ecosystem</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+         <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
+          <span style="margin-left: 8px;">Actively learning skills !>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+<h2 align="left">Languages and Tools</h2>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Darshn-26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" width="400" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&theme=tokyonight&hide_border=true" width="400" />
-    </td>
-    <td width="40%" rowspan="2">
-      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" />
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🚀 Languages and Tools</h2>
-
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="96">
@@ -92,10 +92,26 @@
     </tr>
   </table>
 </div>
+<h2 align="left">📊 GitHub Statistics</h2>
 
-<h2 align="center">👨‍💻 Connect with me</h2>
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Darshn-26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" width="400" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&theme=tokyonight&hide_border=true" width="400" />
+    </td>
+    <td width="60%" rowspan="2">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="450" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+
+
+<h2 align="left">👨‍💻 Connect with me</h2>
+
+<p align="left">
   <a href="https://dev.to/darshan_pr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshan_pr" height="30" width="40" />
   </a>
