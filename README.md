@@ -16,97 +16,88 @@
       <div style="margin-left: 0;">
         <div style="display: flex; align-items: center; margin-bottom: 8px;">
           <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px;">Specializing in Java Development, Generative AI, and Full-Stack Engineering</span>
+          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Specializing in Java Development, Generative AI, and Full-Stack Engineering</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 8px;">
           <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px;">Currently expanding expertise in Next.js framework and Large Language Model implementation</span>
+          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Currently expanding expertise in Next.js framework and Large Language Model implementation</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 8px;">
           <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px;">Seeking collaboration opportunities within the Open-Source ecosystem</span>
+          <span style="margin-left: 8px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Seeking collaboration opportunities within the Open-Source ecosystem</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 8px;">
          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px;">Actively learning skills !>
+          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Actively learning skills !</span>
         </div>
       </div>
     </div>
   </div>
 </div>
+            
 <h2 align="left">Languages and Tools</h2>
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-        <br>TailwindCSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
-        <br>Spring
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-<h2 align="left">📊 GitHub Statistics</h2>
-
-<table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Darshn-26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" width="400" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshn-26&theme=tokyonight&hide_border=true" width="400" />
+    <td width="45%" valign="top">
+      <table width="100%" cellpadding="8" cellspacing="0" border="0">
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="85" height="55" alt="C" />
+            <br>C
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="85" height="55" alt="Java" />
+            <br>Java
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="55" alt="Python" />
+            <br>Python
+          </td>
+          <td align="center" width="25%">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="60" height="55" alt="Next.js" />
+            <br>Next.js
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="75" height="60" alt="React" />
+            <br>React
+          </td>
+          <td align="center" width="25%">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="60" height="45" alt="TailwindCSS" />
+            <br>TailwindCSS
+          </td>
+          <td align="center" width="25%">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="55" alt="Node.js" />
+            <br>Node.js
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="85" height="55" alt="MySQL" />
+            <br>MySQL
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="55" alt="MongoDB" />
+            <br>MongoDB
+          </td>
+          <td align="center" width="25%">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="55" alt="Docker" />
+            <br>Docker
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="60%" rowspan="2">
-      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="450" />
+    <td width="55%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
-
 
 
 <h2 align="left">👨‍💻 Connect with me</h2>
@@ -122,10 +113,6 @@
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/darshanpr26/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshanpr26" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto: darshanpr26@gmail.com" arget="_blank" ></a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Darsh260" target="_blank">
