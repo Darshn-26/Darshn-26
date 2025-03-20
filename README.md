@@ -39,7 +39,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
       <table width="100%" cellpadding="8" cellspacing="0" border="0">
         <tr>
           <td align="center" width="25%">
@@ -93,7 +93,7 @@
         </tr>
       </table>
     </td>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" style="display: block;" />
     </td>
   </tr>
