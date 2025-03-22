@@ -5,34 +5,21 @@
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-Stack+Developer;AI+Enthusiast+!;&font=Fira%20Code&color=ff9a40&center=true&size=30&width=400&height=45">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=50&text=Pronouns%20he/him..&fontSize=20&fontAlign=10" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-Stack+Developer;AI+Enthusiast+!;&font=Fira%20Code&color=cf0258&size=25&width=380&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=50&text=Pronouns%20he%20/%20him..&fontSize=18&fontAlign=10" />
 </div>
 
 
 <div align="left">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex-direction:column;">
-      <div style="margin-left: 0;">
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Specializing in Java Development, Generative AI, and Full-Stack Engineering</span>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Currently expanding expertise in Next.js framework and Large Language Model implementation</span>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-          <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Seeking collaboration opportunities within the Open-Source ecosystem</span>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-         <img src="https://miro.medium.com/v2/resize:fit:400/1*-xb7cKgxlETNml550rqvYA.jpeg" width="25" height="25">
-          <span style="margin-left: 8px; font-family: 'Courier New', monospace;">Actively learning skills !</span>
-        </div>
-      </div>
-    </div>
-  </div>
+
+<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Specializing in Java Development, Generative AI, and Full-Stack Engineering
+
+<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Currently expanding expertise in Next.js framework and Large Language Model implementation
+
+<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Seeking collaboration opportunities within the Open-Source ecosystem
+
+<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Actively learning skills!
+
 </div>
             
 <h2 align="left">Languages and Tools</h2>
