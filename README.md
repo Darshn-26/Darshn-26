@@ -5,21 +5,28 @@
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-Stack+Developer;AI+Enthusiast+!;&font=Fira%20Code&color=cf0258&size=25&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+!;Full-Stack+Developer;AI+Enthusiast+!;&font=Quicksand&color=2DBA4E&size=25&width=380&height=45">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=50&text=Pronouns%20he%20/%20him..&fontSize=18&fontAlign=10" />
 </div>
 
 
 <div align="left">
-
-<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Specializing in Java Development, Generative AI, and Full-Stack Engineering
-
-<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Currently expanding expertise in Next.js framework and Large Language Model implementation
-
-<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Seeking collaboration opportunities within the Open-Source ecosystem
-
-<img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20"> Actively learning skills!
-
+  <p>
+    <img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20">
+    <span>&nbsp;Specializing in Java Development, Generative AI, and Full-Stack Engineering</span>
+  </p>
+  <p>
+    <img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20">
+    <span>&nbsp;Currently expanding expertise in Next.js framework and Large Language Model implementation</span>
+  </p>
+  <p>
+    <img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20">
+    <span>&nbsp;Seeking collaboration opportunities within the Open-Source ecosystem</span>
+  </p>
+  <p>
+    <img src="https://png.pngtree.com/png-clipart/20230304/ourmid/pngtree-tick-icon-vector-symbol-green-checkmark-isolated-transparent-background-png-image_6629080.png" width="20" height="20">
+    <span>&nbsp;Actively learning skills!</span>
+  </p>
 </div>
             
 <h2 align="left">Languages and Tools</h2>
