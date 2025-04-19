@@ -6,25 +6,25 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=⚆%20Pronouns%20He%20/%20Him&fontSize=24&fontAlign=13.5&fontFamily=Impact" />
 </div>
 
-```javascript
-const aboutMe = [
-  "Specializing in Java Development, Generative AI, and Full-Stack Engineering",
-  "Currently expanding expertise in Next.js framework and Large Language Model implementation",
-  "Seeking collaboration opportunities within the Open-Source ecosystem",
-  "Actively learning skills!"
-];
+```java
+String[] AboutMe = {
+    "Specializing in Java Development, Generative AI, and Full-Stack Engineering",
+    "Currently expanding expertise in Next.js framework and Large Language Model implementation",
+    "Seeking collaboration opportunities within the Open-Source ecosystem",
+    "Actively learning skills!"
+};
 ```
             
 
 
-```javascript
-const techStack = {
-  "Programming Languages": ["Java", "Python", "C"],
-  "Web Development": ["Next.js", "React", "TailwindCSS", "Node.js"],
-  "Databases": ["MySQL", "MongoDB"],
-  "DevOps": ["Docker"],
-  "Gen AI": ["LLMs", "Gemini", "ChatGPT"],
-};
+```python
+TechStack = {
+    "Programming Languages": ["Java", "Python", "JavaScript"],
+    "Web Development": ["Next.js", "React", "TailwindCSS", "Node.js"],
+    "Databases": ["MySQL", "MongoDB"],
+    "DevOps": ["Docker"],
+    "Gen AI": ["LLMs", "Gemini", "ChatGPT"]
+}
 ```
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 25px; margin: 20px 0;">
