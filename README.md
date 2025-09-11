@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Darsh_n%20!&fontSize=40&animation=fadeIn&fontAlignY=38" />
 </div>
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+!;Full-Stack+Developer;AI+Enthusiast+!;&font=Quicksand&color=2DBA4E&size=25&width=380&height=45&padding=5&marginleft=5">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+!;Software+Developer+!;AI+and+Cloud+Enthusiast+!;&font=Quicksand&color=2DBA4E&size=25&width=380&height=45&padding=5&marginleft=5">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=⚆%20Pronouns%20He%20/%20Him&fontSize=24&fontAlign=13.5&fontFamily=Impact" />
 </div>
 
