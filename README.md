@@ -8,7 +8,7 @@
 
 ```java
 String[] AboutMe = {
-    "Specializing in Java Development, Generative AI, and Full-Stack Engineering",
+    "Specializing in Java Development, Generative AI, and  Software Development Engineer",
     "Currently expanding expertise in Next.js framework and Large Language Model implementation",
     "Seeking collaboration opportunities within the Open-Source ecosystem",
     "Actively learning skills!"
