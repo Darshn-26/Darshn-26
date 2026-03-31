@@ -29,8 +29,8 @@ TechStack = {
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 25px; margin: 20px 0;">
   <img src="https://appinventiv.com/wp-content/uploads/2019/08/AI-1.gif" width="30%" height="150px" />
-  <img src="https://www.ideamotive.co/hubfs/ezgif.com-optimize-1.gif" width="30%" height="150px" />
-  <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/10/AI-customer-service-agents-1680x1120-1.jpg?resize=768,512" width="30%" height="150px" />
+  <img src="https://artificialintelligencen03.home.blog/wp-content/uploads/2019/03/ai.gif" width="30%" height="150px" />
+  <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="30%" height="150px" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=⚆%20Connect%20with%20me&fontSize=24&fontAlign=13.5&fontFamily=Impact" />
@@ -53,6 +53,9 @@ TechStack = {
   &nbsp;&nbsp;
   <a href="https://g.dev/darsh-n" target="_blank">
     <img src="https://i.ytimg.com/vi/UOhkdowmdnU/sddefault.jpg?v=648b9533" alt="Google Developer Profile" height="30" width="40" />
+  </a>
+  <a href="https://darshan-pr.tech" target="_blank">
+    <img src="https://darshan-pr.tech/logo_rbg.png" height="50" width="50" style="border-radius: 30px;"/>
   </a>
 </p>
 
